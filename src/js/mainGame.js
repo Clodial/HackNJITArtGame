@@ -22,7 +22,7 @@ var beg = false;
 var bgIndex = new Array();
 var image1 = "images/mainScreen.png";
 var image2 = "images/instructions.png";
-var image3 = "images/level.png";
+var image3 = "images/mainLevel.png";
 bgIndex.push(image1);
 bgIndex.push(image2);
 bgIndex.push(image3);
